@@ -9,6 +9,7 @@ body {
     display: flex;
     margin-left: auto;
     padding: 0px 100px 0px 0px;
+
      
 
 }
@@ -19,10 +20,14 @@ body {
     background-color: #1f2937;
     
 }
-.logoicon {
+.logoicon img {
     font-size: 48px;
     font-weight: bold;
     color: whitesmoke;
+    width: 115px;
+    height: 105px;
+    margin-right: auto;
+    border-radius: 50%;
 }
 
 ul {
@@ -38,7 +43,8 @@ ul {
 .header-list-item a {
     text-decoration: none;  
     color: whitesmoke;
-    font-size: 18px;
+    font-size: 22px;
+    font-family: 'Roboto', arial;
 }
 
 .middle {
@@ -47,7 +53,7 @@ ul {
     background-color: #1F2937;
     align-items: center;
     justify-content: center;
-    padding: 90px;
+    padding: 80px;
 }
 
 .welcomesectionLeft {
@@ -97,4 +103,24 @@ h2 {
     text-align: center;
     font-size: 18px;
     font-weight: 800px;
+}
+
+.quotesection {
+    background-color:#1f2937;
+    display: flex;
+    flex-direction: column;
+    padding: 0 200px;
+}
+
+.quotesection p {
+    color: mintcream;
+    font-size: 30px;
+    font-family: serif;
+}
+.quotesection b {
+    color: mintcream;
+    font-size: 30px;
+    padding-right: 90px;
+    text-align: right;
+    font-family:cursive;
 }

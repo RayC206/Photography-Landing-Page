@@ -53,7 +53,7 @@ ul {
     background-color: #1F2937;
     align-items: center;
     justify-content: center;
-    padding: 80px;
+    padding: 50px;
 }
 
 .welcomesectionLeft {
@@ -116,6 +116,7 @@ h2 {
     color: mintcream;
     font-size: 30px;
     font-family: serif;
+    text-align: center;
 }
 .quotesection b {
     color: mintcream;
@@ -128,12 +129,13 @@ h2 {
 .signupsection {
     display: flex;
     align-items: center;
-    margin: 20px 300px 20px 350px;
+    margin: 20px 500px 20px 500px;
     padding: 0 80px;
     align-content: center;
     background-color: #1f2937;
 }
 .signupsection-text {
+
     color: mintcream;
     display: flexbox;
     flex-direction:column;
@@ -142,16 +144,15 @@ h2 {
 }
 
 .signupbutton {
-    padding: 0 10px;
+    padding: 10px 100px;
     border: 2px solid mintcream;
-    align-content: center;
     text-align: center;
-    margin: 10px;
     border-radius: 10%;
     background-color: lavender;
     font-weight: bold;
     font-family: auto;
     font-size: 16px;
+    margin-left: auto;
 }
 
 .footer {

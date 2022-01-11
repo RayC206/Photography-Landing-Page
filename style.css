@@ -124,3 +124,43 @@ h2 {
     text-align: right;
     font-family:cursive;
 }
+
+.signupsection {
+    display: flex;
+    align-items: center;
+    margin: 20px 300px 20px 350px;
+    padding: 0 80px;
+    align-content: center;
+    background-color: #1f2937;
+}
+.signupsection-text {
+    color: mintcream;
+    display: flexbox;
+    flex-direction:column;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.signupbutton {
+    padding: 0 10px;
+    border: 2px solid mintcream;
+    align-content: center;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10%;
+    background-color: lavender;
+    font-weight: bold;
+    font-family: auto;
+    font-size: 16px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    padding:2px;
+    
+}
+
+.footer p {
+    color: mintcream;
+}

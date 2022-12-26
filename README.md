@@ -1,6 +1,7 @@
 # Practice landing page
 - My first ever project expirementing with HTML and CSS. 
-- Featuring random photos from my Japan Travel
+- Featuring random photos from my trip to Japan.
+- Might revisit this project again someday
 
 
 
